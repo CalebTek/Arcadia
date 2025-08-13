@@ -1,4 +1,4 @@
-﻿namespace Arcadia.InfrastructureTests;
+﻿namespace Arcadia.IntegrationTests;
 
 public class UnitTest1
 {

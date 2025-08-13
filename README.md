@@ -55,9 +55,3 @@ practice clean architecture concepts and sharpen their skills.
 
 > **Tip:** This repo is a playground. Add features, break things, refactor, and learn.
 ```
-
----
-
-If you want, I can **design the initial ASP.NET Core solution template** with all these layers pre-wired, including basic dependency injection, EF Core setup, and testing projects so you can start coding right away. That way, you can just clone it and start adding functionalities.
-
-Do you want me to prepare that starter solution?

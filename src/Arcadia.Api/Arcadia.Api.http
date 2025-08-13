@@ -1,0 +1,6 @@
+@Arcadia.Api_HostAddress = http://localhost:5014
+
+GET {{Arcadia.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

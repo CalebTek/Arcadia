@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arcadia.UnitTests", "Test\A
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arcadia.IntegrationTests", "Test\Arcadia.IntegrationTests\Arcadia.IntegrationTests.csproj", "{643D797C-0A27-4C07-89A1-C7CC139A8CDE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{36E39017-DD69-44C2-9606-DBB15FBA4986} = {36E39017-DD69-44C2-9606-DBB15FBA4986}
+		{E81F3661-FA41-4D31-8AC7-978899EC58FD} = {E81F3661-FA41-4D31-8AC7-978899EC58FD}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
